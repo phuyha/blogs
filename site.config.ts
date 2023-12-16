@@ -17,7 +17,7 @@ export default siteConfig({
   description: '',
 
   // social usernames (optional)
-  twitter: 'nothafpham_',
+  // twitter: 'nothafpham_',
   github: 'phuyha',
   linkedin: 'huyhaf',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
